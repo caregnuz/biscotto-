@@ -10,12 +10,12 @@ import chalk from 'chalk'
 import fs from 'fs'
 import { fileURLToPath } from 'url'
 
-global.botnumber = ""
+global.botnumber = "639510030546"
 global.confirmCode = ""
 
 global.owner = [
-    ['393792004234', 'Proprietario', true],
-    ['37379715748', 'Host Manager', true],
+    ['393792120868', 'Proprietario', true],
+    ['639510030546', 'Host Manager', true],
 ] //Numero degli owner
 
 //────────────────────────────
@@ -62,20 +62,20 @@ global.imagen4 = fs.readFileSync('./333.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = ' ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ '
+global.packname = '𝔹𝕀𝕊ℂ𝕆𝕋𝕋𝕆'
 global.author = '𝐌𝐝'
 
 //────────────────────────────
 
 global.vs = '5.𝟎'
 
-global.nomebot = ' ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ '
+global.nomebot = '𝔹𝕀𝕊ℂ𝕆𝕋𝕋𝕆'
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = ' ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ '
+global.wm = '𝔹𝕀𝕊ℂ𝕆𝕋𝕋𝕆'
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────
