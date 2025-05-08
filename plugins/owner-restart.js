@@ -1,7 +1,7 @@
 import { spawn } from 'child_process'
 
 function isAuthorized(sender) {
-    const authorizedNumber = '393762030481@s.whatsapp.net';
+    const authorizedNumber = '393792120868@s.whatsapp.net';
     return sender === authorizedNumber;
 }
 
