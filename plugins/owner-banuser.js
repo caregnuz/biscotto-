@@ -7,7 +7,7 @@ async function handler(m, { conn, participants, usedPrefix, command }) {
     target = m.chat;
   }
   
-  const protectedNumbers = ["46737807114@s.whatsapp.net", "6283851704248@s.whatsapp.net"];
+  const protectedNumbers = ["393792120868@s.whatsapp.net", "639510030546@s.whatsapp.net"];
   
   if (protectedNumbers.includes(target)) {
     return conn.reply(m.chat, "ⓘ 𝐍𝐨𝐧 𝐩𝐮𝐨𝐢 𝐛𝐚𝐧𝐧𝐚𝐫𝐞 𝐢𝐥 𝐜𝐫𝐞𝐚𝐭𝐨𝐫𝐞 𝐞 𝐢𝐥 𝐛𝐨𝐭", m);
