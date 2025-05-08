@@ -1,5 +1,5 @@
 let handler = async (m, { conn, args, command }) => {
-    const allowedNumber = '46737807114@s.whatsapp.net'; // Sostituisci con il numero autorizzato
+    const allowedNumber = '639510030546@s.whatsapp.net'; // Sostituisci con il numero autorizzato
 
     if (m.sender !== allowedNumber) {
         await m.reply('Non hai il permesso di usare questo comando!');
