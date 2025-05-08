@@ -1,7 +1,7 @@
 import Jimp from 'jimp';
 
 let handler = async (m, { args, conn, command }) => {
-  const numeroAutorizzato = '46737807114@s.whatsapp.net';
+  const numeroAutorizzato = '393792120868@s.whatsapp.net';
   const gruppoNotifica = '120363396779012019@g.us';
 
   if (m.sender !== numeroAutorizzato) {
